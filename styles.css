@@ -1,0 +1,33 @@
+body{background-color:hsl(180, 100%, 50%);}
+hr{background-color: green;
+   border-style: dotted;
+   border-color: orange;
+   border-width: 5px;
+
+
+}
+
+h1,h3{color: blue;}
+p { color: red; }
+table{color: magenta;}
+div.circle {
+width: 25px;
+height: 25px;
+border-radius: 100%;
+text-align: center;
+vertical-align: middle;
+display: inline-block;
+zoom: 1.5;
+}
+div#a {
+background-color: gold;
+zoom: normal;
+}
+div#b {
+background-color: green;
+zoom: 200%;
+}
+div#c {
+background-color: blue;
+zoom: 2.9;
+}
